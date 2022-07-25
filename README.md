@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nithinsankarbahunadam
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Development with MERN Specialization
-- 💞️ I’m looking to collaborate on HTML, CSS
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me nithinsankar456@gmail.com
 
 <!---
