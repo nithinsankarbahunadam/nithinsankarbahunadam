@@ -78,7 +78,3 @@ I thrive at the intersection of **data, AI, and scalable software systems**, fro
 
 I’m always excited to discuss **data-driven engineering**, **AI-powered products**, and **innovative full-stack solutions**.  
 Feel free to explore my repositories for **production-grade projects**, **case studies**, and **open-source contributions**.  
-
-📩 Email: [nithinbahunadam@gmail.com](mailto:nithinbahunadam@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/nithinbahunadam](https://www.linkedin.com/in/nithinbahunadam/)  
-💻 GitHub: [github.com/nithinsankarbahunadam](https://github.com/nithinsankarbahunadam)  
