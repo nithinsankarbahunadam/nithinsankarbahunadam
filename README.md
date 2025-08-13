@@ -1,83 +1,84 @@
-# 👋 Hi, I'm Nithin Sankar Bahunadam
+# 👋 Hi, I'm Nithin (Sankar) Bahunadam  
 
-🎯 **Senior Data Engineer | Cloud Data Architect | Real-Time Analytics Specialist**
-
-📍 Based in the U.S. | 🌐 [LinkedIn](https://www.linkedin.com/in/nithinsankarbahunadam/) | 📧 nithinsankar37@gmail.com
-
----
-
-## 🚀 About Me
-
-I’m a passionate and results-driven **Senior Data Engineer** with over **7 years of experience** designing, building, and optimizing cloud-native data pipelines, scalable ETL frameworks, and real-time analytics solutions across **Azure**, **AWS**, and **modern big data stacks**.
-
-My expertise spans data lake architecture, cloud migration, pipeline orchestration, and predictive modeling. I’ve contributed to digital transformation at leading companies like **Zoetis**, **Fifth Third Bank**, **PNB MetLife**, and **Aditya Birla Retail**, solving complex problems using tools like **Databricks**, **Kafka**, **Snowflake**, **Azure Synapse**, and **Apache Airflow**.
+💡 **Data Engineer | Full Stack & AI Engineer | Cloud & ML Specialist**  
+📍 Dallas, Texas, USA | 🌎 Open to Global Opportunities | 📫 [Email Me](mailto:bnithinsankar@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nithinbahunadam/) • [GitHub](https://github.com/nithinsankarbahunadam)  
 
 ---
 
-## 🔧 Technologies & Tools
+## 🚀 About Me  
 
-**Cloud Platforms:** Azure, AWS  
-**Data Engineering:** Azure Data Factory, AWS Glue, Informatica, Databricks  
-**Big Data:** Apache Spark, PySpark, Hadoop, MapReduce  
-**Streaming:** Apache Kafka, Spark Streaming, Flume  
-**Data Warehousing:** Snowflake, Redshift, Synapse Analytics  
-**Languages:** Python, SQL, R, T-SQL, PL/SQL  
-**BI & Visualization:** Power BI, Tableau, Google Analytics  
-**Security & Access Control:** AWS IAM, Azure RBAC, Snowflake RBAC  
-**DevOps & Orchestration:** GitHub, GitLab, Airflow, CI/CD, Jira, Confluence
+I’m a results-driven technology professional with **5+ years of experience** delivering end-to-end **data platforms**, **ML solutions**, and **AI-powered web applications** across **pharma, insurance, and retail** domains.  
 
----
+My expertise spans:  
+- **Data Engineering** – Building Lakehouse & Medallion Architectures, real-time pipelines, and governed cloud-native platforms.  
+- **Full Stack Development** – Designing modern, responsive web applications with seamless API integrations.  
+- **AI & Automation** – Developing AI assistants, Retrieval-Augmented Generation (RAG) systems, and automated workflows.  
 
-## 💼 Notable Projects
-
-### 🔹 **Zoetis – Real-Time Animal Health Analytics (2024 – Present)**
-- Migrated legacy SQL to **Azure Data Lake**, **Synapse**, and **Databricks** for scalable analytics.
-- Built **Kafka-Spark Streaming** pipelines to analyze veterinary IoT data in real time.
-- Created **forecasting models in PySpark MLlib** to predict vaccine demand—boosted accuracy by 25%.
-- Automated ETL workflows via **Airflow** and enabled **Power BI dashboards with row-level security**.
-
-### 🔹 **Fifth Third Bank – Fraud Detection & Snowflake Optimization (2023 – 2024)**
-- Engineered **AWS Glue + Lambda** pipelines for transaction processing and fraud detection.
-- Migrated warehouses to **Snowflake**, optimizing storage and implementing RBAC policies.
-- Achieved **50% reduction in pipeline latency** and enhanced financial data security.
-
-### 🔹 **PNB MetLife – Real-Time Claims Monitoring (2021 – 2023)**
-- Built **Azure Stream Analytics pipelines** to monitor insurance claims live.
-- Performed **A/B testing** using **Google Analytics + Tableau**, improving campaign ROI by 15%.
-- Delivered statistical models using **Python**, **IBM SPSS**, and **SQL**.
-
-### 🔹 **Aditya Birla Retail – Retail Data Transformation (2017 – 2021)**
-- Migrated petabyte-scale retail data to **AWS Redshift**, optimizing dashboards and ETL.
-- Built **Hadoop MapReduce** pipelines and integrated **Tableau** for executive-level insights.
+I thrive at the intersection of **data, AI, and scalable software systems**, from **data ingestion to intelligent applications**.  
 
 ---
 
-## 🎓 Education & Certifications
+## 🛠 Core Skills  
 
-🎓 **Master’s in Big Data Analytics & IT** – *University of Central Missouri*  
-🎓 **B.Tech in Computer Science** – *GITAM University*  
-📜 **AWS Certified Data Analytics – Specialty (2025)**  
-📜 **Microsoft Certified: DP-700 Fabric Data Engineer (2025)**  
-📜 **Snowflake SnowPro Core Certified**
+**Languages & Frameworks**  
+- Python, SQL, PySpark, Bash, TypeScript, JavaScript (ES6+)  
+- FastAPI, Flask, React.js, Node.js, Express  
 
----
+**AI & Automation**  
+- LangChain, LlamaIndex, OpenAI, Gemini, AI Agents, Prompt Engineering  
+- ML models with XGBoost, LightGBM, Scikit-learn, MLflow, SMOTE  
 
-## 💡 What Drives Me
+**Cloud & Infrastructure**  
+- Azure (ADF, ADLS, Synapse, AKS), AWS (S3, Glue, EC2, Lambda, Kinesis), GCP (BigQuery)  
+- Snowflake, Databricks, Delta Lake, dbt, Apache Airflow  
+- Docker, Kubernetes, Terraform, GitHub Actions CI/CD  
 
-I believe data should empower people—not overwhelm them. Whether it's automating a business report, detecting fraud in real time, or forecasting global vaccine demand, I strive to design solutions that are **scalable**, **secure**, and **impact-driven**.
-
-I’m currently exploring **machine learning operations (MLOps)**, **real-time feature engineering**, and **LLMs for data augmentation**.
-
----
-
-## 📫 Let’s Connect
-
-Feel free to explore my repositories, contribute to discussions, or connect with me for collaborations, mentorship, or data strategy consultations.
-
-📨 **Email:** nithinsankar37@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/nithinsankarbahunadam](https://www.linkedin.com/in/nithinsankarbahunadam)
+**Data & Visualization**  
+- Power BI, Tableau, D3.js, Recharts, Chart.js, Pandas, NumPy  
 
 ---
 
-> “Data is a puzzle that never ends—and that’s exactly why I love it.”  
-> – Nithin Sankar Bahunadam
+## 📂 Featured Projects  
+
+### **HireWise.ai** – AI Resume Tailor & Interview Assistant  
+*React.js • FastAPI • LangChain • LlamaIndex • AWS S3 • Kubernetes*  
+- AI-powered resume tailoring achieving 90% ATS match accuracy.  
+- Automated job description parsing & resume generation with n8n workflows.  
+
+### **R&D Analytics Platform – Zoetis**  
+*Databricks • Delta Lake • dbt • Power BI*  
+- Implemented Medallion Architecture, reducing lab-to-dashboard refresh from **72 hours to under 8 hours**.  
+- Delivered real-time SLA dashboards for scientific teams.  
+
+### **Lend-Wise** – ML Loan Risk Prediction  
+*FastAPI • XGBoost • n8n • Kubernetes*  
+- Loan risk prediction with 88% accuracy, retrained weekly.  
+- Scalable API deployment on Kubernetes with IaC.  
+
+### **Fin-Track** – Credit Scoring & Personal Finance App  
+*React.js • FastAPI • XGBoost • Streamlit*  
+- 92% accuracy in credit score predictions.  
+- Reduced data refresh time from 24 hours to 30 minutes.  
+
+---
+
+## 🎓 Education & Certifications  
+
+- **M.S. in Big Data Analytics & IT** – University of Central Missouri (2023 – 2025)  
+- **B.Tech in Computer Science** – GITAM University, India (2014 – 2018)  
+- **AWS Certified Data Engineer – Associate (2025)**  
+- **Microsoft Certified: Fabric Data Engineer – DP-700 (2025)**  
+- **Meta Front-End Developer Professional Certificate**  
+- **Google UX Design Professional Certificate**  
+
+---
+
+## 🌟 Let's Connect  
+
+I’m always excited to discuss **data-driven engineering**, **AI-powered products**, and **innovative full-stack solutions**.  
+Feel free to explore my repositories for **production-grade projects**, **case studies**, and **open-source contributions**.  
+
+📩 Email: [nithinbahunadam@gmail.com](mailto:nithinbahunadam@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/nithinbahunadam](https://www.linkedin.com/in/nithinbahunadam/)  
+💻 GitHub: [github.com/nithinsankarbahunadam](https://github.com/nithinsankarbahunadam)  
