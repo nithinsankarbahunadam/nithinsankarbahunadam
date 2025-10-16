@@ -1,80 +1,86 @@
-# 👋 Hi, I'm Nithin (Sankar) Bahunadam  
+# 👋 Hi, I'm Nithin Sankar Bahunadam  
 
-💡 **Data Engineer | Full Stack & AI Engineer | Cloud & ML Specialist**  
-📍 Dallas, Texas, USA | 🌎 Open to Global Opportunities | 📫 [Email Me](mailto:bnithinsankar@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nithinbahunadam/) • [GitHub](https://github.com/nithinsankarbahunadam)  
+🚀 **Full-Stack Java & AI Engineer | Cloud-Native | Generative AI | Microservices**
 
 ---
 
-## 🚀 About Me  
+### 💡 About Me  
+I’m a **Full-Stack Java & AI Engineer** with **5+ years** of experience designing and delivering **enterprise-scale, cloud-native systems** across **Java 17/Spring Boot**, **React.js/TypeScript**, and **Python/FastAPI** ecosystems.  
+My work bridges software engineering and AI — building **RAG-powered assistants**, **microservice architectures**, and **multi-cloud automation pipelines** that make products smarter, faster, and more scalable.  
 
-I’m a results-driven technology professional with **5+ years of experience** delivering end-to-end **data platforms**, **ML solutions**, and **AI-powered web applications** across **pharma, insurance, and retail** domains.  
-
-My expertise spans:  
-- **Data Engineering** – Building Lakehouse & Medallion Architectures, real-time pipelines, and governed cloud-native platforms.  
-- **Full Stack Development** – Designing modern, responsive web applications with seamless API integrations.  
-- **AI & Automation** – Developing AI assistants, Retrieval-Augmented Generation (RAG) systems, and automated workflows.  
-
-I thrive at the intersection of **data, AI, and scalable software systems**, from **data ingestion to intelligent applications**.  
+✅ Architected high-throughput Spring Boot microservices processing millions of daily events.  
+✅ Delivered 40 % efficiency boosts through **LangChain-based AI assistants** and **Generative AI automation**.  
+✅ Designed **event-driven systems** using Kafka, Redis, and PostgreSQL for near real-time analytics.  
+✅ Automated **zero-downtime CI/CD pipelines** with Jenkins, GitHub Actions, Terraform, and Kubernetes.  
 
 ---
 
-## 🛠 Core Skills  
+### 🧠 Tech Stack  
+**Languages & Frameworks:**  
+Java (8 – 21), Spring Boot, Python, FastAPI, React, Angular, TypeScript, JavaScript (ES6+), Tailwind CSS  
 
-**Languages & Frameworks**  
-- Python, SQL, PySpark, Bash, TypeScript, JavaScript (ES6+)  
-- FastAPI, Flask, React.js, Node.js, Express  
+**AI & LLMs:**  
+LangChain | LlamaIndex | OpenAI API | Gemini | RAG | Prompt Engineering | FAISS/Chroma  
 
-**AI & Automation**  
-- LangChain, LlamaIndex, OpenAI, Gemini, AI Agents, Prompt Engineering  
-- ML models with XGBoost, LightGBM, Scikit-learn, MLflow, SMOTE  
+**Cloud & DevOps:**  
+AWS (EKS, ECS, S3, RDS, Lambda) | Azure (AKS, Data Factory) | Docker | Kubernetes | Terraform | Jenkins | GitHub Actions  
 
-**Cloud & Infrastructure**  
-- Azure (ADF, ADLS, Synapse, AKS), AWS (S3, Glue, EC2, Lambda, Kinesis), GCP (BigQuery)  
-- Snowflake, Databricks, Delta Lake, dbt, Apache Airflow  
-- Docker, Kubernetes, Terraform, GitHub Actions CI/CD  
+**Data & Messaging:**  
+Kafka | Redis | PostgreSQL | MySQL | MongoDB | DynamoDB  
 
-**Data & Visualization**  
-- Power BI, Tableau, D3.js, Recharts, Chart.js, Pandas, NumPy  
+**Observability & Security:**  
+Prometheus | Grafana | Splunk | OpenTelemetry | OAuth2 | JWT | Fortify | SonarQube  
 
 ---
 
-## 📂 Featured Projects  
+### 💼 Professional Experience  
 
-### **HireWise.ai** – AI Resume Tailor & Interview Assistant  
-*React.js • FastAPI • LangChain • LlamaIndex • AWS S3 • Kubernetes*  
-- AI-powered resume tailoring achieving 90% ATS match accuracy.  
-- Automated job description parsing & resume generation with n8n workflows.  
+**🏦 American Express — Full-Stack Java & AI Engineer** (Feb 2025 – Present)  
+- Built RAG-enabled **LangChain + FastAPI** assistants cutting support-query resolution time by 40 %.  
+- Engineered Spring Boot microservices handling 2M+ daily transactions with 25 % higher throughput.  
+- Deployed **EKS + AKS** clusters using Terraform IaC, achieving zero-downtime releases.  
 
-### **R&D Analytics Platform – Zoetis**  
-*Databricks • Delta Lake • dbt • Power BI*  
-- Implemented Medallion Architecture, reducing lab-to-dashboard refresh from **72 hours to under 8 hours**.  
-- Delivered real-time SLA dashboards for scientific teams.  
+**💳 ADP — Full-Stack Java Developer** (Jul 2021 – Apr 2023)  
+- Designed payroll & HR microservices with 35 % latency reduction.  
+- Automated infrastructure with **Azure DevOps + Terraform**, reducing release cycles 40 %.  
+- Implemented Kafka + Redis async pipelines for global payroll reconciliation.  
 
-### **Lend-Wise** – ML Loan Risk Prediction  
-*FastAPI • XGBoost • n8n • Kubernetes*  
-- Loan risk prediction with 88% accuracy, retrained weekly.  
-- Scalable API deployment on Kubernetes with IaC.  
-
-### **Fin-Track** – Credit Scoring & Personal Finance App  
-*React.js • FastAPI • XGBoost • Streamlit*  
-- 92% accuracy in credit score predictions.  
-- Reduced data refresh time from 24 hours to 30 minutes.  
+**🏢 LTIMindtree — Software Engineer** (Aug 2018 – Jun 2021)  
+- Re-architected monolithic apps into **event-driven microservices** with Kafka + REST APIs.  
+- Built React.js dashboards for retail analytics improving usability 20 %.  
+- Automated CI/CD and IaC with Jenkins + Terraform.  
 
 ---
 
-## 🎓 Education & Certifications  
-
-- **M.S. in Big Data Analytics & IT** – University of Central Missouri (2023 – 2025)  
-- **B.Tech in Computer Science** – GITAM University, India (2014 – 2018)  
-- **AWS Certified Data Engineer – Associate (2025)**  
-- **Microsoft Certified: Fabric Data Engineer – DP-700 (2025)**  
-- **Meta Front-End Developer Professional Certificate**  
-- **Google UX Design Professional Certificate**  
+### 🧩 Featured Projects  
+| Project | Tech Stack | Description |
+|----------|-------------|-------------|
+| **FinEdge** | Java 17 · Spring Boot · React · Kafka · Terraform · EKS | AI-driven loan-risk & credit-scoring platform using event-driven microservices. |
+| **Lend-Wise** | FastAPI · Flask · XGBoost · Kubernetes | Loan-risk prediction API (88 % accuracy) with automated n8n retraining. |
+| **InsightHub** | FastAPI · React · LangChain · Chroma · AWS S3 | Internal RAG-based assistant for contextual knowledge retrieval. |
+| **FinPay** | Spring Boot · React · Kafka · Redis · EKS | Payment simulation with async event propagation & monitoring. |
+| **DocuMind** | React · FastAPI · LangChain · GPT-4 · FAISS · Kubernetes | AI-powered document intelligence for structured insight extraction. |
 
 ---
 
-## 🌟 Let's Connect  
+### 🎓 Education & Certifications  
+- **M.S. Big Data Analytics & IT**, University of Central Missouri (2023 – 2025)  
+- **B.Tech. Computer Science & Engineering**, GITAM University (2018)  
+- **AWS Certified Cloud Practitioner** (2025)  
+- **Microsoft Associate Data Engineer** (2025)  
+- **Meta Front-End Developer Certificate**  
 
-I’m always excited to discuss **data-driven engineering**, **AI-powered products**, and **innovative full-stack solutions**.  
-Feel free to explore my repositories for **production-grade projects**, **case studies**, and **open-source contributions**.  
+---
+
+### 🌐 Connect with Me  
+📩 **Email:** [sankarnithinb@gmail.com](mailto:sankarnithinb@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/nsankarbahunadam](https://linkedin.com/in/nsankarbahunadam)  
+💻 **GitHub:** [github.com/nithinsankarbahunadam](https://github.com/nithinsankarbahunadam)  
+
+---
+
+### ✨ Open To  
+- 🚀 Full-Stack Java + AI Engineer / AI Microservices Developer roles  
+- ☁️ Cloud-Native Platform Engineering (AWS, Azure, Terraform, Kubernetes)  
+- 🤖 Generative AI Apps & LangChain Integrations  
+- 🧩 Data-Driven and RAG Product Development  
