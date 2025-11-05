@@ -5,7 +5,7 @@
 ---
 
 ### 💡 About Me  
-I’m a **Full-Stack Java & AI Engineer** with **5+ years** of experience designing and delivering **enterprise-scale, cloud-native systems** across **Java 17/Spring Boot**, **React.js/TypeScript**, and **Python/FastAPI** ecosystems.  
+I’m a **Full-Stack Java & AI Engineer** with experience designing and delivering **enterprise-scale, cloud-native systems** across **Java 17/Spring Boot**, **React.js/TypeScript**, and **Python/FastAPI** ecosystems.  
 My work bridges software engineering and AI — building **RAG-powered assistants**, **microservice architectures**, and **multi-cloud automation pipelines** that make products smarter, faster, and more scalable.  
 
 ✅ Architected high-throughput Spring Boot microservices processing millions of daily events.  
@@ -30,25 +30,6 @@ Kafka | Redis | PostgreSQL | MySQL | MongoDB | DynamoDB
 
 **Observability & Security:**  
 Prometheus | Grafana | Splunk | OpenTelemetry | OAuth2 | JWT | Fortify | SonarQube  
-
----
-
-### 💼 Professional Experience  
-
-**🏦 American Express — Full-Stack Java & AI Engineer** (Feb 2025 – Present)  
-- Built RAG-enabled **LangChain + FastAPI** assistants cutting support-query resolution time by 40 %.  
-- Engineered Spring Boot microservices handling 2M+ daily transactions with 25 % higher throughput.  
-- Deployed **EKS + AKS** clusters using Terraform IaC, achieving zero-downtime releases.  
-
-**💳 ADP — Full-Stack Java Developer** (Jul 2021 – Apr 2023)  
-- Designed payroll & HR microservices with 35 % latency reduction.  
-- Automated infrastructure with **Azure DevOps + Terraform**, reducing release cycles 40 %.  
-- Implemented Kafka + Redis async pipelines for global payroll reconciliation.  
-
-**🏢 LTIMindtree — Software Engineer** (Aug 2018 – Jun 2021)  
-- Re-architected monolithic apps into **event-driven microservices** with Kafka + REST APIs.  
-- Built React.js dashboards for retail analytics improving usability 20 %.  
-- Automated CI/CD and IaC with Jenkins + Terraform.  
 
 ---
 
