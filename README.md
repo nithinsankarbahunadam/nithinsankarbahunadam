@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nithin Sankar Bahunadam  
 
-🚀 **Full-Stack Java & AI Engineer | Cloud-Native | Generative AI | Microservices**
+🚀 **Full-Stack Java & Data Engineer & AI Engineer | Cloud-Native | Generative AI | Microservices**
 
 ---
 
